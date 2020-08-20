@@ -1,0 +1,48 @@
+﻿[02/08/20 15:10:38] info: Program: Starting Squirrel Updater: --download https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[02/08/20 15:10:38] info: Program: Fetching update information, downloading from https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[02/08/20 15:10:39] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\end\AppData\Local\Temp\.squirrel-lock-FA774AB03F75BCB64AD5C5861E92DBDD7023756F: System.IO.IOException: The process cannot access the file 'C:\Users\end\AppData\Local\Temp\.squirrel-lock-FA774AB03F75BCB64AD5C5861E92DBDD7023756F' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[02/08/20 15:10:39] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\end\AppData\Local\Temp\.squirrel-lock-FA774AB03F75BCB64AD5C5861E92DBDD7023756F: System.IO.IOException: The process cannot access the file 'C:\Users\end\AppData\Local\Temp\.squirrel-lock-FA774AB03F75BCB64AD5C5861E92DBDD7023756F' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[02/08/20 15:10:39] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\end\AppData\Local\Temp\.squirrel-lock-FA774AB03F75BCB64AD5C5861E92DBDD7023756F: System.IO.IOException: The process cannot access the file 'C:\Users\end\AppData\Local\Temp\.squirrel-lock-FA774AB03F75BCB64AD5C5861E92DBDD7023756F' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[02/08/20 15:10:39] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\end\AppData\Local\Temp\.squirrel-lock-FA774AB03F75BCB64AD5C5861E92DBDD7023756F: System.IO.IOException: The process cannot access the file 'C:\Users\end\AppData\Local\Temp\.squirrel-lock-FA774AB03F75BCB64AD5C5861E92DBDD7023756F' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[02/08/20 15:10:40] info: CheckForUpdateImpl: Generated new staging user ID: 7a159de0-5d16-54a0-8396-a4f6174160ab
+[02/08/20 15:10:40] info: CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[02/08/20 15:10:40] info: FileDownloader: Downloading url: https://atom.io/api/updates-x64/RELEASES?version=1.49.0&os_version=10.0.18362&id=atom&localVersion=1.49.0&arch=amd64
+[02/08/20 15:10:41] info: Program: Finished Squirrel Updater
+[02/08/20 15:23:13] info: Program: Starting Squirrel Updater: --download https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[02/08/20 15:23:14] info: Program: Fetching update information, downloading from https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[02/08/20 15:23:14] info: CheckForUpdateImpl: Using existing staging user ID: 7a159de0-5d16-54a0-8396-a4f6174160ab
+[02/08/20 15:23:14] info: CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[02/08/20 15:23:14] info: FileDownloader: Downloading url: https://atom.io/api/updates-x64/RELEASES?version=1.49.0&os_version=10.0.18362&id=atom&localVersion=1.49.0&arch=amd64
+[02/08/20 15:23:14] info: Program: Finished Squirrel Updater
+[19/08/20 15:51:01] info: Program: Starting Squirrel Updater: --download https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[19/08/20 15:51:01] info: Program: Fetching update information, downloading from https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[19/08/20 15:51:01] info: CheckForUpdateImpl: Using existing staging user ID: 7a159de0-5d16-54a0-8396-a4f6174160ab
+[19/08/20 15:51:01] info: CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[19/08/20 15:51:02] info: FileDownloader: Downloading url: https://atom.io/api/updates-x64/RELEASES?version=1.49.0&os_version=10.0.18362&id=atom&localVersion=1.49.0&arch=amd64
+[19/08/20 15:51:03] info: FileDownloader: Downloading file: https://atom.io/api/updates-x64/atom-1.50.0-delta.nupkg
+[19/08/20 15:51:46] warn: UpdateInfo: Couldn't get release notes for:atom-1.50.0-delta.nupkg: System.Exception: Invalid 'ReleaseNotes' value in nuspec file at 'C:\Users\end\AppData\Local\atom\packages\atom-1.50.0-delta.nupkg'
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[19/08/20 15:51:46] info: Program: Finished Squirrel Updater
+[19/08/20 19:51:01] info: Program: Starting Squirrel Updater: --download https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[19/08/20 19:51:01] info: Program: Fetching update information, downloading from https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[19/08/20 19:51:01] info: CheckForUpdateImpl: Using existing staging user ID: 7a159de0-5d16-54a0-8396-a4f6174160ab
+[19/08/20 19:51:01] info: CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates-x64?version=1.49.0&os_version=10.0.18362
+[19/08/20 19:51:02] info: FileDownloader: Downloading url: https://atom.io/api/updates-x64/RELEASES?version=1.49.0&os_version=10.0.18362&id=atom&localVersion=1.50.0&arch=amd64
+[19/08/20 19:51:02] info: Program: Finished Squirrel Updater
